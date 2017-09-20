@@ -3,6 +3,6 @@
 
 ## 伪 · 机器算命
 
-## base on https://github.com/Entropy-xcy/RankFace
+base on https://github.com/Entropy-xcy/RankFace
 
 
