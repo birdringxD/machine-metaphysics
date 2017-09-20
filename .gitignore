@@ -1,0 +1,7 @@
+*.jpg
+*.pyc
+*.h5
+*.out
+.idea
+.DS_Store
+
