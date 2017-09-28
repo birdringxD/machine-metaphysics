@@ -106,7 +106,7 @@ def save_predict_img(img_file, save_path):
         img = np.expand_dims(img, axis=0)
         features[i] = model.predict(img)
         features[i] = features[i].flatten().tolist()
-        print features[i]
+        #print features[i]
         print len(features[i])
         print "_____________________"
         for j in range(i):
