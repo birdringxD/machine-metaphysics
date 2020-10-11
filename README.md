@@ -1,6 +1,4 @@
-# machine-fortune-telling
-
-人脸相似度检测
+Face similarity detection with python + keras / Flask
 
 base on: https://github.com/Entropy-xcy/FaceRank
 
